@@ -398,9 +398,7 @@ img {
 
 /* CTA Section */
 .cta {
-  background: linear-gradient(rgba(10, 25, 47, 0.8), rgba(10, 25, 47, 0.9)), 
-              url('./card2.jpeg') center/cover no-repeat;
-  text-align: center;
+  background: var(--bg-secondary);
   position: relative;
 }
 
