@@ -172,9 +172,6 @@ img {
   gap: 10px;
 }
 
-.btn-whatsapp:before {
-  content: '💬'; /* Simple icon mapping */
-}
 
 .btn-whatsapp:hover {
   background-color: #128C7E;
