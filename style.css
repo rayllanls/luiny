@@ -220,6 +220,7 @@ img {
 .logo-text {
   font-size: 1.5rem;
   letter-spacing: 1px;
+  color: var(--accent-gold);
 }
 
 .nav-links {
