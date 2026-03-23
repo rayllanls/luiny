@@ -208,10 +208,8 @@ img {
 }
 
 .logo-img {
-  height: 40px;
-  border-radius: 4px;
-  object-fit: cover;
-  border: 1px solid var(--accent-gold);
+  height: 45px;
+  object-fit: contain;
 }
 
 .logo-text {
