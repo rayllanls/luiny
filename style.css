@@ -208,8 +208,13 @@ img {
 }
 
 .logo-img {
-  height: 45px;
+  height: 80px;
   object-fit: contain;
+  transition: transform 0.3s ease;
+}
+
+.logo-img:hover {
+  transform: scale(1.05);
 }
 
 .logo-text {
@@ -514,8 +519,8 @@ img {
 }
 
 .logo-img-footer {
-  height: 35px;
-  border-radius: 4px;
+  height: 70px;
+  object-fit: contain;
 }
 
 .logo-text-footer {
